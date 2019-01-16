@@ -1,0 +1,3 @@
+Symlinking /home/pi3/catkin_ws/devel/share/roomba/cmake/roombaConfig-version.cmake
+Symlinking /home/pi3/catkin_ws/devel/share/roomba/cmake/roombaConfig.cmake
+Symlinking /home/pi3/catkin_ws/devel/lib/pkgconfig/roomba.pc

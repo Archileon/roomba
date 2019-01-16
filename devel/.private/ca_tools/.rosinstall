@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi3/catkin_ws/devel/.private/ca_tools/setup.sh

@@ -1,0 +1,3 @@
+Symlinking /home/pi3/catkin_ws/devel/share/ca_description/cmake/ca_descriptionConfig.cmake
+Symlinking /home/pi3/catkin_ws/devel/share/ca_description/cmake/ca_descriptionConfig-version.cmake
+Symlinking /home/pi3/catkin_ws/devel/lib/pkgconfig/ca_description.pc

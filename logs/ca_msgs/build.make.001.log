@@ -1,0 +1,16 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _ca_msgs_generate_messages_check_deps_PlaySong
+[  0%] Built target _ca_msgs_generate_messages_check_deps_ChargingState
+[  0%] Built target _ca_msgs_generate_messages_check_deps_DefineSong
+[  0%] Built target _ca_msgs_generate_messages_check_deps_Bumper
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ca_msgs_generate_messages_check_deps_Mode
+[ 18%] Built target ca_msgs_generate_messages_nodejs
+[ 40%] Built target ca_msgs_generate_messages_py
+[ 59%] Built target ca_msgs_generate_messages_cpp
+[ 77%] Built target ca_msgs_generate_messages_lisp
+[100%] Built target ca_msgs_generate_messages_eus
+[100%] Built target ca_msgs_generate_messages

@@ -1,0 +1,1 @@
+/home/pi3/catkin_ws/devel/.private/ca_msgs/share/roseus/ros/ca_msgs/msg/Bumper.l

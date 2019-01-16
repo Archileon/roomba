@@ -1,0 +1,4 @@
+Symlinking /home/pi3/catkin_ws/devel/share/ca_driver/cmake/ca_driverConfig-version.cmake
+Symlinking /home/pi3/catkin_ws/devel/share/ca_driver/cmake/ca_driverConfig.cmake
+Symlinking /home/pi3/catkin_ws/devel/lib/pkgconfig/ca_driver.pc
+Symlinking /home/pi3/catkin_ws/devel/lib/ca_driver/ca_driver
